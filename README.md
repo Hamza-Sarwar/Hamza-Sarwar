@@ -1,12 +1,3 @@
-# Hamza Sarwar  
-**Python Developer | Web Scraper | Backend Engineer**
-
-📍 Islamabad, Pakistan  
-📧 [hamzasarwar129@gmail.com](mailto:hamzasarwar129@gmail.com)  
-🔗 [LinkedIn](#) | [GitHub](#)
-
----
-
 ## 👨‍💻 About Me
 
 Experienced **Python Developer** and **Backend Engineer** with a strong focus on **web scraping**, **automation**, and **database management**. Over the years, developed expertise in creating efficient systems to handle large-scale data, build web applications, and solve complex problems.
