@@ -6,19 +6,19 @@ Experienced **Python Developer** and **Backend Engineer** with a strong focus on
 
 ## 🔧 Key Skills
 
-- **Web Scraping & Automation**  
+- 🔍 **Web Scraping & Automation**  
   Extensive experience in building web scrapers using **Selenium**, **Scrapy**, and **BeautifulSoup**. Expertise in **rotating proxies**, **session handling**, and automating tasks for seamless operations.
 
-- **Python Scripting & Multithreading**  
+- ⚙️ **Python Scripting & Multithreading**  
   Designed and developed **Python scripts** for various tasks, maximizing system capacity with **multithreading** and **asynchronous processing** to ensure efficiency in handling large datasets.
 
-- **Backend Development with Django & Flask**  
+- 💻 **Backend Development with Django & Flask**  
   Developed and maintained scalable **Django** and **Flask** applications. Expertise in **RESTful API** development, server-side logic, and database management.
 
-- **Database Management**  
+- 📊 **Database Management**  
   Worked extensively with **PostgreSQL** and **MongoDB**. Focused on optimizing database performance through indexing, query optimization, and partitioning.
 
-- **Task Automation & Monitoring**  
+- 🛠 **Task Automation & Monitoring**  
   Integrated **Celery** and **Cron Jobs** to automate background tasks. Used **Flower** to monitor task execution and track performance in real-time.
 
 ---
